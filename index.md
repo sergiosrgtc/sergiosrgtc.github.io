@@ -1,6 +1,6 @@
-## Sergio Costa
+## Resume
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSJjAAWbIgP88sNMHd6a87otADUzlLFceYMN_d2_c_HBYZg7IDVWbWCf-sSRVy899uAfmTHWqUhvHaF/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSJjAAWbIgP88sNMHd6a87otADUzlLFceYMN_d2_c_HBYZg7IDVWbWCf-sSRVy899uAfmTHWqUhvHaF/pub?embedded=true" width="800" height="800" ></iframe>
 
 You can use the [editor on GitHub](https://github.com/sergiosrgtc/sergiosrgtc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
