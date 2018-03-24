@@ -4,20 +4,17 @@ projects:
     title: (2018) Nanodegree iOS Developer
     tagline: "06 months (2018) [Udacity]."
   - project:
-    title: (2015)  iOS Swift
+    title: (2015)  iOS Swift 1.1
     tagline: "200H (2013) [Impacta]."
   - project:
     title: (2013)  ITIL V3
-    tagline: "40H (2013) [Ka Solution]."
-  - project:
-    title: (2013)  ITIL V3
-    tagline: "40H (2013) [Ka Solution]."
+    tagline: "40H [Ka Solution]."
   - project:
     title: (2013) iOS Objective C
     tagline: "40H [Trainning]."
   - project:
     title: (2013)  ITIL V3
-    tagline: "40H (2012) [Ka Solution]."
+    tagline: "40H [Ka Solution]."
   - project:
     title: (2011) .Net 4.0 C#
     tagline: "Microsoft Official Training - 40H  [Ka Solution]."
