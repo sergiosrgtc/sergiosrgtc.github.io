@@ -28,4 +28,4 @@ publications:
 • 100% of design and development. <br>
 • Working with REST services using Alamofire. <br>
  <br> <br>
-<img src="/assets/images/Tracker.png" alt="Tracker APP">
+<img class="profile-img" src="{{site.baseurl}}/assets/images/Tracker.png" alt="profile picture" />
