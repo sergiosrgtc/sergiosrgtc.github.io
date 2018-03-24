@@ -1,15 +1,31 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 publications:
   - paper:
     title: SIEMENS Field Maintenance app
     authors: Module for COMOS engineering software.
-    conference: Addison-Wesley, 1968
+    conference: • Used in large scale projects.  <br>
+• Maintenance operations cost reduction of 30%. <br>
+• Objective-c and swift. <br>
+• Communication via XML with server. <br>
+• SqLite database. <br>
+• Corporate app, not available at the app store. <br>
   - paper:
     title: Fleeber - Musician Social Network
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    authors:
+    conference: • Independent contractor. <br>
+• About 70.000 registered users in South America and Europe. <br>
+• Swift 3. <br>
+• Google maps and Facebook api integration. <br>
+• Working with REST services using Afnetworking. <br>
+• https://itunes.apple.com/br/app/fleeber-m%25C3%25BAsicos-e-comunidade/id1016305978?mt=8 <br>
   - paper:
     title: Tracker - Movie & Tv Show Manager
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors:
+    conference: • Personal project. <br>
+• Swift 4. <br>
+• Realm object oriented database. <br>
+• Integration with trakt.tv and The Movie Database api. <br>
+• 100% of design and development. <br>
+• Working with REST services using Alamofire. <br>
+ <br> <br>
+<img class="profile-img" src="{{site.baseurl}}/assets/images/Tracker.png" alt="profile picture" />
