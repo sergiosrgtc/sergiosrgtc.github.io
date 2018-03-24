@@ -2,8 +2,8 @@ intro: "You can list your publications in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
   - paper:
-    title: SIEMENS Field Maintenance app*
-    authors: *Module for COMOS engineering software.
+    title: SIEMENS Field Maintenance app
+    authors: Module for COMOS engineering software.
     conference: Addison-Wesley, 1968
   - paper:
     title: Fleeber - Musician Social Network
