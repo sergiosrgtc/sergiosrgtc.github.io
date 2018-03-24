@@ -21,7 +21,7 @@ publications:
   - paper:
     title: Tracker - Movie & Tv Show Manager
     authors:
-    conference: • Personal project. <br>
+    conference: • Personal project. <br> 
 • Swift 4. <br>
 • Realm object oriented database. <br>
 • Integration with trakt.tv and The Movie Database api. <br>
