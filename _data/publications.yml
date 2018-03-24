@@ -1,7 +1,7 @@
 intro: ""
 publications:
   - paper:
-    title: SIEMENS Field Maintenance app*
+    title: SIEMENS Field Maintenance app* 
     authors: *Module for COMOS engineering software.
     conference: • Used in large scale projects.  <br>
 • Maintenance operations cost reduction of 30%. <br>
