@@ -1,5 +1,5 @@
 intro: ""
-publications:
+publications: ""
   - paper:
     title: SIEMENS Field Maintenance app*
     authors: *Module for COMOS engineering software.
@@ -20,7 +20,7 @@ publications:
 • https://itunes.apple.com/br/app/fleeber-m%25C3%25BAsicos-e-comunidade/id1016305978?mt=8 <br>
   - paper:
     title: Tracker - Movie & Tv Show Manager
-    authors:
+    authors: ""
     conference: • Personal project. <br>
 • Swift 4. <br>
 • Realm object oriented database. <br>
