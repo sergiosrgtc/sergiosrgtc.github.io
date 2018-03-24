@@ -3,29 +3,29 @@ publications:
   - paper:
     title: SIEMENS Field Maintenance app
     authors: Module for COMOS engineering software.
-    conference: • Used in large scale projects.  <br>
+    conference: "• Used in large scale projects.  <br>
 • Maintenance operations cost reduction of 30%. <br>
 • Objective-c and swift. <br>
 • Communication via XML with server. <br>
 • SqLite database. <br>
-• Corporate app, not available at the app store. <br>
+• Corporate app, not available at the app store. <br> "
   - paper:
     title: Fleeber - Musician Social Network
     authors:
-    conference: • Independent contractor. <br>
+    conference: "• Independent contractor. <br>
 • About 70.000 registered users in South America and Europe. <br>
 • Swift 3. <br>
 • Google maps and Facebook api integration. <br>
-• Working with REST services using Afnetworking. <br>
+• Working with REST services using Afnetworking. <br> "
 • https://itunes.apple.com/br/app/fleeber-m%25C3%25BAsicos-e-comunidade/id1016305978?mt=8 <br>
   - paper:
     title: Tracker - Movie & Tv Show Manager
     authors:
-    conference: • Personal project. <br>
+    conference: " • Personal project. <br>
 • Swift 4. <br>
 • Realm object oriented database. <br>
 • Integration with trakt.tv and The Movie Database api. <br>
 • 100% of design and development. <br>
 • Working with REST services using Alamofire. <br>
- <br> <br>
+ <br> <br> "
 #<img class="profile-img" src="/assets/images/Tracker.png" alt="profile picture" />
