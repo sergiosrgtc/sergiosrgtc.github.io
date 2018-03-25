@@ -4,12 +4,12 @@
   <h2 class="container-block-title">Skills</h2>
 
     <ul class="list-unstyled interests-list">
-      {% for interest in site.data.skill %}
+      {% for interest in site.data.insterest2 %}
 
       {% if interest.link %}
-        <li><a href="{{ interest.link }}">{{ interest.name }}</a></li>
+        <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
         {% else %}
-        <li>{{ interest.name }}</li>
+        <li>{{ interest.item }}</li>
         {% endif %}
 
       {% endfor %}
