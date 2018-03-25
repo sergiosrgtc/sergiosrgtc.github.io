@@ -1,27 +1,15 @@
-- interest2:
-  item: Swift
+- interest:
+  item: Running & Sports
   link:
-- interest2:
-  item: obejective-c
+- interest:
+  item: Star Wars & sci-fi
   link:
-- interest2:
-  item: C#
+- interest:
+  item: Games of Thrones
   link:
-- interest2:
-  item: Java
+- interest:
+  item: New Technologies & Gadgets
   link:
-- interest2:
-  item: SQL
-  link:
-- interest2:
-  item: REALM
-  link:
-- interest2:
-  item: cocoapods
-  link:
-- interest2:
-  item: Alamofie
-  link:
-- interest2:
-  item: RxSwift
+- interest:
+  item: History
   link:
