@@ -38,9 +38,9 @@
            <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
            {% endif %}
 
-           {% if site.twitter %}
+    <!--       {% if site.twitter %}
            <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
-           {% endif %}
+           {% endif %} -->
 
        </ul>
    </div><!--//contact-container-->
@@ -48,6 +48,7 @@
   {% if site.education_in_main == null or site.education_in_main == false %}
     {% include education.html %}
   {% endif %}
+  {% include skills2.html %}
   {% include language.html %}
   {% include interests.html %}
   {% if site.about %}
