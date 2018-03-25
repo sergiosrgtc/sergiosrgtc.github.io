@@ -10,6 +10,7 @@ publications:
 • SqLite database. <br>
 • Corporate app, not available at the app store. <br> <br>"
     img: "/assets/images/siemensapp.png"
+    <br> <br>
   - paper:
     title: Fleeber - Musician Social Network
     authors:
@@ -19,7 +20,8 @@ publications:
 • Google maps and Facebook api integration. <br>
 • Working with REST services using Afnetworking. <br>
 • https://itunes.apple.com/br/app/fleeber-m%25C3%25BAsicos-e-comunidade/id1016305978?mt=8 <br> <br>"
-    img:
+    img: "/assets/images/fleeberapp.png"
+    <br> <br>
   - paper:
     title: Tracker - Movie & Tv Show Manager
     authors:
@@ -30,3 +32,4 @@ publications:
 • 100% of design and development. <br>
 • Working with REST services using Alamofire. <br> <br>"
     img: "/assets/images/trackerapp.png"
+    <br> <br>
