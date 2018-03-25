@@ -8,7 +8,8 @@ publications:
 • Objective-c and swift. <br>
 • Communication via XML with server. <br>
 • SqLite database. <br>
-• Corporate app, not available at the app store. <br> "
+• Corporate app, not available at the app store. <br> <br>"
+    img:
   - paper:
     title: Fleeber - Musician Social Network
     authors:
@@ -17,7 +18,8 @@ publications:
 • Swift 3. <br>
 • Google maps and Facebook api integration. <br>
 • Working with REST services using Afnetworking. <br>
-• https://itunes.apple.com/br/app/fleeber-m%25C3%25BAsicos-e-comunidade/id1016305978?mt=8 <br> "
+• https://itunes.apple.com/br/app/fleeber-m%25C3%25BAsicos-e-comunidade/id1016305978?mt=8 <br> <br>"
+    img:
   - paper:
     title: Tracker - Movie & Tv Show Manager
     authors:
@@ -26,4 +28,5 @@ publications:
 • Realm object oriented database. <br>
 • Integration with trakt.tv and The Movie Database api. <br>
 • 100% of design and development. <br>
-• Working with REST services using Alamofire. <br> "
+• Working with REST services using Alamofire. <br> <br>"
+    img: "/assets/images/trackerapp.png"
