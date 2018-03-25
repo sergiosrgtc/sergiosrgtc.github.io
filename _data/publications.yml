@@ -9,7 +9,7 @@ publications:
 • Communication via XML with server. <br>
 • SqLite database. <br>
 • Corporate app, not available at the app store. <br> <br>"
-    img:
+    img: "/assets/images/siemensapp.png"
   - paper:
     title: Fleeber - Musician Social Network
     authors:
