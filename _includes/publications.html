@@ -14,7 +14,7 @@
       <div class="publication-title">{{ publication.title }}</div>
       <div class="publication-authors">{{ publication.authors }}</div>
       <div class="publication-conference">{{ publication.conference }}</div>
-      <img class="profile-img" src="/assets/images/trackerapp.png" style='height: 90%; width: 90%; object-fit: contain' alt="Tracker app" />
+      <img src={{ publication.img }} style='height: 90%; width: 90%; object-fit: contain' alt="Tracker app" />
     </div><!--//item-->
   {% endfor %}
 
