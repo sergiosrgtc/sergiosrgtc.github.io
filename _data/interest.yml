@@ -1,18 +1,16 @@
 - interest:
-   item: Running & Sports
-   link:
+  item: SWIFT
+  link:
 - interest:
-  item: Star Wars & sci-fi
-   link:
+  item: objective-c
+  link:
 - interest:
   item: C#
-   link:
+  link:
 - interest:
-  item: New Technologies & Gadgets
   item: Java
-   link:
+  link:
 - interest:
-  item: History
   item: SQL
   link:
 - interest:
@@ -26,4 +24,4 @@
   link:
 - interest:
   item: RxSwift
-   link:
+  link:
